@@ -44,5 +44,10 @@ Q: What are some lifestyle changes that can be made to manage stress and anxiety
 
 A: There are many lifestyle changes that can help manage stress and anxiety. It's helpful to keep in mind that what is right for one person may not be the best for another. Some general suggestions are to pay more attention to your diet and exercise. Eating a healthy diet that includes lots of fruits and vegetables, lean proteins, and whole grains can help your body get the nutrients it needs to function properly. Additionally, decreasing consumption of sugar, caffeine, and alcohol can also help. Exercise is also important. I always tell my clients to try and fit in at least 30 minutes of exercise 5 days a week, but if you can only do 10 minutes a day, that's better than nothing. It's also important to find an exercise that you enjoy. Yoga, pilates, and tai chi are all great low-impact exercises that can also help with mindfulness. Another way to engage in mindfulness is by practicing meditation. There are many apps, such as Headspace and Calm, that can help you get started. Getting enough rest is also important. Most adults need 7-9 hours of sleep, but it's important to know what works best for you. Lastly, it is important to engage in activities that bring you joy. This could be anything from reading a book, to taking a painting class, to going for a walk outside. Anything that can help you live in the moment.
 
+## Helpful resources
+
+- Dataset: [Amod/mental_health_counseling_conversations](https://huggingface.co/datasets/Amod/mental_health_counseling_conversations) 
+- Mistral [Fine-tuning guide](https://docs.mistral.ai/guides/finetuning/)
+- Guide on [LLM-based Evaluation](https://docs.mistral.ai/guides/evaluation/#llm-based-evaluation)
 
 
